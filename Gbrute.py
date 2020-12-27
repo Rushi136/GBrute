@@ -61,7 +61,7 @@ def main():
 | |  __| |_) |_ __ _   _| |_ ___ 
 | | |_ |  _ <| '__| | | | __/ _ \
 | |__| | |_) | |  | |_| | ||  __/
- \_____|____/|_|   \__,_|\__\___| by i4mShayan
+ \_____|____/|_|   \__,_|\__\___| by Rushi sahu
         """)
 
     email_list = input("\033[1;37;0mEnter email list file name(Default: email.txt) >>")
